@@ -7,7 +7,7 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 <!--- Social Media Links -->
 [![Website](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://your-website-url.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/donovan-clark/)
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Hynek01)
+[![GitHub](https://img.shields.io/github/followers/Hynek01?label=Follow&style=social)](https://github.com/Hynek01)
 
 <!--- Technologies and Tools -->
 ## 🔧 Technologies & Tools
