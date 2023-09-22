@@ -7,7 +7,6 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 <!--- Social Media Links -->
 [![Website](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://your-website-url.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/donovan-clark/)
-[![Twitter](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/your-username)
 [![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Hynek01)
 
 <!--- Technologies and Tools -->
@@ -21,29 +20,12 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hynek01)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--- Featured Projects -->
-## 🚀 Featured Projects
-- [Project 1](https://github.com/your-username/project-1): 
-- [Project 2](https://github.com/your-username/project-2): 
-- [Project 3](https://github.com/your-username/project-3): 
-
-<!--- Recent Blog Posts -->
-## 📝 Recent Blog Posts
-- [Blog Post 1](https://your-blog.com/post-1): Summary of the post.
-- [Blog Post 2](https://your-blog.com/post-2): Summary of the post.
-
-<!--- Fun Facts -->
-## ⚡ Fun Facts
-- I can speak 3 languages fluently.
-- I'm a certified scuba diver 🌊.
-- I once [interesting anecdote].
-
 <!--- Get in Touch -->
 ## 📫 Get in Touch
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username/)
+- Email: [your-email@example.com](mailto:donovan617970@gmail.com)
+- LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/donovan-clark/)
 
 <!--- Footer -->
 <hr>
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Donovan](https://github.com/Hynek01)
