@@ -6,9 +6,9 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 
 <!--- Social Media Links -->
 [![Website](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://your-website-url.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/donovan-clark/)
 [![Twitter](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/your-username)
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Hynek01)
 
 <!--- Technologies and Tools -->
 ## 🔧 Technologies & Tools
@@ -19,13 +19,13 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 
 <!--- GitHub Stats -->
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/Hynek01)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hynek01)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- Featured Projects -->
 ## 🚀 Featured Projects
-- [Project 1](https://github.com/your-username/project-1): Short project description.
-- [Project 2](https://github.com/your-username/project-2): Short project description.
-- [Project 3](https://github.com/your-username/project-3): Short project description.
+- [Project 1](https://github.com/your-username/project-1): 
+- [Project 2](https://github.com/your-username/project-2): 
+- [Project 3](https://github.com/your-username/project-3): 
 
 <!--- Recent Blog Posts -->
 ## 📝 Recent Blog Posts
