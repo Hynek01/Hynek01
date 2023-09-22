@@ -16,10 +16,6 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-<!--- GitHub Stats -->
-## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hynek01)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--- Get in Touch -->
 ## 📫 Get in Touch
 - Email: [donovan617970@gmail.com](mailto:donovan617970@gmail.com)
@@ -28,4 +24,3 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 <!--- Footer -->
 <hr>
 
-⭐️ From [Donovan](https://github.com/Hynek01)
