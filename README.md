@@ -1,8 +1,8 @@
 <!--- Your Name -->
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Donovan! 👋
 
 <!--- Introduction -->
-I'm a [Your Profession] passionate about [Your Interests]. I love building cool things and learning new technologies.
+I'm a Python Developer passionate about Data Science. I love building cool things and learning new technologies.
 
 <!--- Social Media Links -->
 [![Website](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://your-website-url.com/)
@@ -19,7 +19,7 @@ I'm a [Your Profession] passionate about [Your Interests]. I love building cool 
 
 <!--- GitHub Stats -->
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/Hynek01)
 
 <!--- Featured Projects -->
 ## 🚀 Featured Projects
