@@ -22,8 +22,8 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 
 <!--- Get in Touch -->
 ## 📫 Get in Touch
-- Email: [your-email@example.com](mailto:donovan617970@gmail.com)
-- LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/donovan-clark/)
+- Email: [donovan617970@gmail.com](mailto:donovan617970@gmail.com)
+- LinkedIn: [linkedin.com/in/donovan-clark](https://www.linkedin.com/in/donovan-clark/)
 
 <!--- Footer -->
 <hr>
