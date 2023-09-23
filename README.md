@@ -2,7 +2,7 @@
 # Hello, I'm Donovan! 👋
 
 <!--- Introduction -->
-I'm a Python Developer passionate about Data Science. I love building cool things and learning new technologies.
+I'm a Python Developer passionate about Data Science. I love building cool things and learning new technologies
 
 <!--- Social Media Links -->
 [![Website](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://your-website-url.com/)
