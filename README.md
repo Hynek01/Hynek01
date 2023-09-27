@@ -21,7 +21,6 @@ I'm a Python Developer passionate about Data Science. I love building cool thing
 - Email: [donovan617970@gmail.com](mailto:donovan617970@gmail.com)
 - LinkedIn: [linkedin.com/in/donovan-clark](https://www.linkedin.com/in/donovan-clark/)
 
-![snake gif](https://github.com/Hynek01/Hynek01/blob/output/github-contribution-grid-snake.gif)
 
 <!--- Footer -->
 <hr>
